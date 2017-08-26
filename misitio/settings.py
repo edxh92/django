@@ -28,7 +28,7 @@ SECRET_KEY = '7y=8r8$c8^858m0htoe#p$nhzhj5x(14@j3e9br2_lru_shyhn'
 DEBUG = True
 #es para ver los errores mientras estamos viendo la aplicacion
 #cuando el programa este en produccion se pone en false para que no pueda ver los errores
-ALLOWED_HOSTS = ['edxh92.pythonanywhere.com']
+ALLOWED_HOSTS = ['edxh92.pythonanywhere.com','127.0.0.1']
 #definimos las direcciones ips que pueden ver nuestra aplcacion por default esta vacia.
 #se define queines se pueden conectar
 
